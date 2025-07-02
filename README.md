@@ -1,4 +1,4 @@
-# Development of Computer Vision based AI Tools for Out-of-Bound Detection in Dementia Care Home![image](https://github.com/user-attachments/assets/a528d5d8-5ab3-406d-bab9-98690f8e71c9)
+# Development of Computer Vision based AI Tools for Out-of-Bound Detection in Dementia Care Home
 
 ## Problem Statement:
 Residents of Apex Harmony Lodge (AHL) face the challenge of unintentionally wandering beyond predesignated safe boundaries within the care home premises. 
