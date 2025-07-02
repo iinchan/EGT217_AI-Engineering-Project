@@ -4,7 +4,7 @@
 Residents of Apex Harmony Lodge (AHL) face the challenge of unintentionally wandering beyond predesignated safe boundaries within the care home premises. 
 This behavior poses significant risks to their safety and well-being, including exposure to potential hazards.
 
-## Objectives:
+## Project Objectives:
 1. Enhance Resident safety
 - Respond quickly to AHL residents who stray outside of approved zones to avoid any potential dangers.
 
