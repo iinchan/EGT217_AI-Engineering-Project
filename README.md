@@ -15,8 +15,8 @@ This behavior poses significant risks to their safety and well-being, including 
 - Creating a secure, encouraging atmosphere that fosters independence and well-being is essential to addressing Singapore's aging demographic concerns.
 
 ## Set-Up
-Hardware: Laptop, Webcam
-Software: Jupyter Notebook, Microsoft Azure Blob Storage
+- Hardware: Laptop, Webcam
+- Software: Jupyter Notebook, Microsoft Azure Blob Storage
 
 ## Full project implementation guide:
 https://docs.google.com/document/d/1A-X2UHXemn-_rVfZ5xF1G4zrDa4X2DKJ1u1Re572i90/edit?usp=sharing
